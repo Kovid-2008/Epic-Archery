@@ -3,7 +3,7 @@ class Player{
         var options={
             isStatic:true
         }
-        this.image=loadImage("./assets/base1.png");
+        this.image=loadImage("base1.png");
         this.x=x;
         this.y=y;
         this.width=width;
